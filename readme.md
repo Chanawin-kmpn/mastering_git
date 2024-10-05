@@ -1,4 +1,4 @@
-## Hello Git!
+## Heyoo everyone, welcome to by guide!
 
-- I'm adding this from
-`feature-branch`
+- Hi I'm Johny
+- I'm adding this from`feature-branch`
